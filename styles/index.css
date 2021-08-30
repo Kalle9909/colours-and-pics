@@ -1,0 +1,39 @@
+h1 {
+    color:green;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align:center ;
+    background-color: rgb(159, 84, 235);
+}
+
+p {
+    color: hotpink;
+}
+
+#second-para {
+    color:indigo
+    opacity: 0.6;
+      
+}
+.description {
+    color: pink;
+}
+
+body {
+    background-image: url(../images/death-star-600.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-top: 5px solid seagreen;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px purple;
+}
